@@ -15,7 +15,7 @@
 
 ---
 
-## 👨‍💻 About Me
+<h2> 👨‍💻 About Me</h2
 
 <table width="300%" cellspacing="0" cellpadding="0">
 <tr>
@@ -23,10 +23,10 @@
 
 ### 💡 Profile
 
-<h3>💻 Full-Stack Developer</h3>
-<h3>⚡ Building scalable web applications with React & FastAPI</h3>
-<h3>🚀 Passionate about AI and clean UI</h3>
-<h3>🤝 Open to internships</h3>
+<p>💻 Full-Stack Developer</p>
+<p>⚡ Building scalable web applications with React & FastAPI</p>
+<p>🚀 Passionate about AI and clean UI</p>
+<p>🤝 Open to internships</p>
 </td>
 
 <td valign="top" width="80%" align="right">
