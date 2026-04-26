@@ -1,6 +1,6 @@
 <!-- ANIMATED BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff8a00,100:6a00ff&height=220&section=header&text=Sahil%20Dev%20Kambli&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Computer%20Engineering%20Student%20%7C%20Aspiring%20Full-Stack%20Developer&descAlignY=60&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff8a00,100:6a00ff&height=220&section=header&text=SAHIL%20DEV%20KAMBLI&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Computer%20Engineering%20Student%20%7C%20Aspiring%20Full-Stack%20Developer&descAlignY=60&animation=fadeIn" />
 </p>
 
 
