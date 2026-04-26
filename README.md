@@ -1,8 +1,7 @@
-<!-- Premium Gradient Banner -->
+<!-- Venom Style Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=24,30,45,57&text=Sahil%20Kambli&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20Student%20|%20Aspiring%20Full-Stack%20Developer&descAlignY=62&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=gradient&customColorList=12,20,24,30&text=Sahil%20Kambli&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20Student%20|%20Aspiring%20Full-Stack%20Developer&descAlignY=63&animation=fadeIn" />
 </p>
-
 
 
 ---
