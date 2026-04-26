@@ -1,13 +1,7 @@
-<!-- Modern Sharp Look Banner -->
+<!-- Modern Sharp Look Banner (Updated Color Theme) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&height=460&color=gradient&customColorList=20,30,36,40,45,50&text=Sahil%20Kambli&fontSize=92&fontColor=ffffff&fontAlignY=45&desc=Computer%20Engineering%20Student%20|%20Aspiring%20Full-Stack%20Developer&descAlignY=75&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&height=460&color=gradient&customColorList=1,5,10,15,20&text=Sahil%20Kambli&fontSize=92&fontColor=ffffff&fontAlignY=45&desc=Computer%20Engineering%20Student%20|%20Aspiring%20Full-Stack%20Developer&descAlignY=75&animation=fadeIn" />
 </p>
-
-
-
-
-
-
 
 
 
