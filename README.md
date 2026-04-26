@@ -70,7 +70,7 @@
 
 ---
 
-## 📌 Featured Projects
+ **📌Featured Projects**
 
 <h3>• AI Life Logging Platform </h3>  
 <h3>• TO-DO LIST APP </h3>
