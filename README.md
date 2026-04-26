@@ -61,13 +61,25 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sahilkambli2004&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilkambli2004&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sahilkambli2004&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="180"/>
 </p>
+```
+
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahilkambli2004&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahilkambli2004&theme=tokyonight" height="180"/>
 </p>
+```
+
+## 📈 Full Combined Section
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sahilkambli2004&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahilkambli2004&theme=tokyonight" height="180"/>
+</p>
+
+
 
 ---
 ## 📌 Featured Projects
