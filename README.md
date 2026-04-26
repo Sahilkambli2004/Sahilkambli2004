@@ -1,8 +1,7 @@
-<!-- Bigger Cylindrical Style Banner -->
+<!-- Bigger Rect Style Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylindrical&height=320&color=gradient&customColorList=18,24,30,36&text=Sahil%20Kambli&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20Student%20|%20Aspiring%20Full-Stack%20Developer&descAlignY=65&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=320&color=gradient&customColorList=18,24,30,36&text=Sahil%20Kambli&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20Student%20|%20Aspiring%20Full-Stack%20Developer&descAlignY=65&animation=fadeIn" />
 </p>
-
 
 
 
