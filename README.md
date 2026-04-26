@@ -1,7 +1,9 @@
-<!-- Premium Gradient Banner -->
+<!-- Venom Style Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=460&color=gradient&customColorList=0,3,6,12,18,24&text=Sahil%20Kambli&fontSize=92&fontColor=ffffff&fontAlignY=45&desc=Computer%20Engineering%20Student%20|%20Aspiring%20Full-Stack%20Developer&descAlignY=75&animation=fadeIn" />
 </p>
+```
+
 
 
 
