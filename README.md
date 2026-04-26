@@ -17,7 +17,7 @@
 ## About Me
 <table>
 <tr>
-<td valign="top" width="60%">
+<td valign="top" width="90%">
 
 <b>💻 Full-Stack Developer</b><br>
 ⚡ Building scalable web applications with React & FastAPI<br>
