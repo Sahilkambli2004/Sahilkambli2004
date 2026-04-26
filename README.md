@@ -19,6 +19,14 @@
 <tr>
 <td valign="top" width="78%">
 
+
+
+## 👨‍💻 About Me
+
+<table width="100%" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top" width="78%">
+
 ### 💡 Profile
 
 - 💻 **Full-Stack Developer**
@@ -30,12 +38,11 @@
 
 <td valign="top" width="22%" align="right">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Coding GIF"/>
+<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="260" alt="Coding GIF"/>
 
 </td>
 </tr>
 </table>
-
 
 
 
