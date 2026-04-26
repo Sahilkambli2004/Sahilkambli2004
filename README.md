@@ -69,12 +69,13 @@
 
 
 ---
+
 ## 📌 Featured Projects
 
-<h3>•AI Life Logging Platform </h3>  
-<h3>•TO-DO LIST APP </h3>
-<h3>•Full Stack Web Apps </h3> 
-<h3>•Java & Python Projects</h3> 
+<h3>• AI Life Logging Platform </h3>  
+<h3>• TO-DO LIST APP </h3>
+<h3>• Full Stack Web Apps </h3> 
+<h3>• Java & Python Projects</h3> 
 
 ---
 ## 🤝 Connect With Me
