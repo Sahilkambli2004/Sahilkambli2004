@@ -1,6 +1,6 @@
 <!-- Bigger Venom Style Banner (Red & Black Theme) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=520&color=gradient&customColorList=1,5,10,15,20&text=Sahil%20Kambli&fontSize=100&fontColor=ffffff&fontAlignY=48&desc=Computer%20Engineering%20Student%20|%20Aspiring%20Full-Stack%20Developer&descAlignY=78&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=520&color=gradient&customColorList=1,5,11,15,20&text=Sahil%20Kambli&fontSize=100&fontColor=ffffff&fontAlignY=48&desc=Computer%20Engineering%20Student%20|%20Aspiring%20Full-Stack%20Developer&descAlignY=78&animation=fadeIn" />
 </p>
 
 
