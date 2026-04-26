@@ -23,10 +23,10 @@
 
 ### 💡 Profile
 
-<h4>- 💻 **Full-Stack Developer**</h4>
-<h4>- ⚡ **Building scalable web applications with React & FastAPI**</h4>
-<h4>- 🚀 Passionate about **AI and clean UI**</h4>
-<h4>- 🤝 Open to **internships**</h4>
+<h3>- 💻 **Full-Stack Developer**</h3>
+<h3>- ⚡ **Building scalable web applications with React & FastAPI**</h3>
+<h3>- 🚀 Passionate about **AI and clean UI**</h3>
+<h3>- 🤝 Open to **internships**</h3>
 
 </td>
 
