@@ -1,6 +1,6 @@
-<!-- Premium Gradient Banner -->
+<!-- Bigger Premium Gradient Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=24,30,36,45,50&text=Sahil%20Kambli&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20Student%20|%20Aspiring%20Full-Stack%20Developer&descAlignY=65&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=380&color=gradient&customColorList=24,30,36,45,50&text=Sahil%20Kambli&fontSize=78&fontColor=ffffff&fontAlignY=40&desc=Computer%20Engineering%20Student%20|%20Aspiring%20Full-Stack%20Developer&descAlignY=70&animation=fadeIn" />
 </p>
 
 
