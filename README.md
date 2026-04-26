@@ -1,6 +1,6 @@
-<!-- Bigger Venom Style Banner (Red & Black Theme) -->
+<!-- ANIMATED BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=520&color=gradient&customColorList=1,5,10,15,20&text=Sahil%20Kambli&fontSize=100&fontColor=ffffff&fontAlignY=48&desc=Computer%20Engineering%20Student%20|%20Aspiring%20Full-Stack%20Developer&descAlignY=78&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff8a00,100:6a00ff&height=220&section=header&text=Shubham%20Jadhav&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Computer%20Engineering%20Student%20|%20Aspiring%20Full-Stack%20Developer&descAlignY=60&animation=fadeIn" />
 </p>
 
 
