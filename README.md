@@ -15,14 +15,6 @@
 
 ## 👨‍💻 About Me
 
-<table width="200%" cellspacing="0" cellpadding="0">
-<tr>
-<td valign="top" width="78%">
-
-
-
-## 👨‍💻 About Me
-
 <table width="300%" cellspacing="0" cellpadding="0">
 <tr>
 <td valign="top" width="78%">
