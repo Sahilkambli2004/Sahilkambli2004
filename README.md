@@ -10,7 +10,7 @@
 
 <!-- Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1200&center=true&vCenter=true&width=950&lines=Aspiring+Full+Stack+Web+Developer;HTML%2C+CSS%2C+JavaScript+%7C+Frontend+Developer+%7C+Open+Source;Always+Learning+%7C+Building+Innovative+Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1200&center=true&vCenter=true&width=950&color=FF0000&lines=Aspiring+Full+Stack+Web+Developer;HTML%2C+CSS%2C+JavaScript+%7C+Frontend+Developer+%7C+Open+Source;Always+Learning+%7C+Building+Innovative+Projects" />
 </p>
 
 ---
