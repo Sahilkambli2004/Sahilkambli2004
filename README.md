@@ -1,7 +1,9 @@
-<!-- Bigger Premium Gradient Banner (New Color Theme) -->
+<!-- Modern Sharp Look Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=420&color=gradient&customColorList=20,30,36,40,45&text=Sahil%20Kambli&fontSize=86&fontColor=ffffff&fontAlignY=42&desc=Computer%20Engineering%20Student%20|%20Aspiring%20Full-Stack%20Developer&descAlignY=72&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&height=460&color=gradient&customColorList=20,30,36,40,45,50&text=Sahil%20Kambli&fontSize=92&fontColor=ffffff&fontAlignY=45&desc=Computer%20Engineering%20Student%20|%20Aspiring%20Full-Stack%20Developer&descAlignY=75&animation=fadeIn" />
 </p>
+
+
 
 
 
