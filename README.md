@@ -15,28 +15,24 @@
 
 ---
 
-<h2> 👨‍💻 About Me</h2
-
-<table width="300%" cellspacing="0" cellpadding="0">
+<table>
 <tr>
-<td valign="top" width="78%">
+<td valign="top" width="60%">
 
-### 💡 Profile
+<b>💻 Full-Stack Developer</b><br>
+⚡ Building scalable web applications with React & FastAPI<br>
+🚀 Passionate about AI and clean UI<br>
+🤝 Open to internships
 
-<p>💻 Full-Stack Developer</p>
-<p>⚡ Building scalable web applications with React & FastAPI</p>
-<p>🚀 Passionate about AI and clean UI</p>
-<p>🤝 Open to internships</p>
 </td>
 
-<td valign="top" width="80%" align="right">
+<td valign="top" width="40%" align="right">
 
-<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="260" alt="Coding GIF"/>
+<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="260"/>
 
 </td>
 </tr>
 </table>
-
 
 
 ---
