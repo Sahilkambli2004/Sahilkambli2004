@@ -28,7 +28,7 @@
 
 <td valign="top" width="100%" align="right">
 
-<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="260"/>
+<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="360"/>
 
 </td>
 </tr>
