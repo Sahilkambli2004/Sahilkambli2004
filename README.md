@@ -1,6 +1,6 @@
 <!-- ANIMATED BANNER --> 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:000000&height=220&section=header&text=SAHIL%20DEV%20KAMBLI&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Computer%20Engineering%20Student%20%7C%20Aspiring%20Full-Stack%20Developer&descAlignY=60&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:000000&height=220&section=header&text=SAHIL%20DEV%20KAMBLI&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Computer%20Engineering%20Student%20%7C%20Frontend-Web%20Developer&descAlignY=60&animation=fadeIn" />
 </p>
 
 
@@ -10,7 +10,7 @@
 
 <!-- Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1200&center=true&vCenter=true&width=950&color=FF0000&lines=Aspiring+Full+Stack+Web+Developer;HTML%2C+CSS%2C+JavaScript+%7C+Frontend+Developer+%7C+Open+Source;Always+Learning+%7C+Building+Innovative+Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1200&center=true&vCenter=true&width=950&color=FF0000&lines=Frontend+Web+Developer;HTML%2C+CSS%2C+JavaScript+%7C+Frontend+Developer+%7C+Open+Source;Always+Learning+%7C+Building+Innovative+Projects" />
 </p>
 
 ---
@@ -19,7 +19,7 @@
 <tr>
 <td valign="top" width="100%">
 
-<b>💻 Stack Developer</b><br>
+<b>💻 Frontend Web Developer</b><br>
 ⚡ Building scalable web applications with React & FastAPI<br>
 🚀 Passionate about AI and clean UI<br>
 🤝 Open to internships
@@ -70,8 +70,10 @@
 
 <h3>• AI Life Logging Platform </h3>  
 <h3>• TO-DO LIST APP </h3>
+<h3>• Calculator</h3>
+<h3>• Content App</h3> 
 <h3>• Full Stack Web Apps </h3> 
-<h3>• Java & Python Projects</h3> 
+
 
 ---
 ## 🤝 Connect With Me
