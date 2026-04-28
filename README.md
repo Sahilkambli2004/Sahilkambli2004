@@ -19,7 +19,7 @@
 <tr>
 <td valign="top" width="100%">
 
-<b>💻 Full-Stack Developer</b><br>
+<b>💻 Stack Developer</b><br>
 ⚡ Building scalable web applications with React & FastAPI<br>
 🚀 Passionate about AI and clean UI<br>
 🤝 Open to internships
