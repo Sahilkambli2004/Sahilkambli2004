@@ -71,7 +71,7 @@
 <h3>• AI Life Logging Platform </h3>  
 <h3>• TO-DO LIST APP </h3>
 <h3>• Calculator</h3>
-<h3>• Content App</h3> 
+<h3>• Clash Of Clans information website</h3> 
 <h3>• Full Stack Web Apps </h3> 
 
 
