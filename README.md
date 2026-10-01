@@ -19,7 +19,7 @@
 <tr>
 <td valign="top" width="100%">
 
-<b>💻 Frontend Web Developer</b><br>
+<b>💻 Full Stack Java Web Developer</b><br>
 ⚡ Building scalable web applications with React & FastAPI<br>
 🚀 Passionate about AI and clean UI<br>
 🤝 Open to internships
